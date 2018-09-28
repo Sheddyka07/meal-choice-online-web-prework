@@ -1,6 +1,6 @@
-def meal_choice( food = "meat")
-  puts food
-  binding.pry
+def meal_choice(food = "meat")
+  puts "#{food}"
+
 end
 
 
